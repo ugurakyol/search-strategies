@@ -1,5 +1,5 @@
-# search-strategies
-Implementation search strategies
+# search strategies 
+Implementation of search strategies
 
 how to run code on linux system
 
